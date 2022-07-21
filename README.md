@@ -11,3 +11,7 @@ Check out the full paper for more detailed methods and applications:
 METAFlux R package can be easily installed from Github using devtools:
 
 `devtools::install_github('Rhyf/METAFlux',build_vignettes = T)`
+
+## Tutorial
+Please check out this link for a full tutorial on using METAFlux:
+
