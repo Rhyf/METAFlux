@@ -14,4 +14,4 @@ METAFlux R package can be easily installed from Github using devtools:
 
 ## Tutorial
 Please check out this link for a full tutorial on using METAFlux:
-[METAFlux tutorial](https://github.com/Rhyf/METAFlux/blob/main/vignettes/intro_metaflux.Rmd)
+[METAFlux tutorial](https://rhyf.github.io/METAFlux/)
